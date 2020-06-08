@@ -2,11 +2,11 @@
 
 Grundet den ekstraordinære eksamenssituation har jeg fremstillet en lille skriftlig opgave. I får ikke feedback på resultaterne eller en direkte karakter, men den kommer på en eller anden måde til at indgå i den samlede vurdering til jeres årskarakter.
 
-
+​     
 
 ![Example](./full_example.gif)
 
-
+​     
 
 
 ## Info
@@ -15,7 +15,7 @@ Opgaven indeholder en række små del-opgaver der enten er selvstændige eller h
 
 Læreplanen til programmering b kan ses her [https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/valgfag/programmering-b-valgfag-august-2017.pdf?la=da](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/valgfag/programmering-b-valgfag-august-2017.pdf?la=da)
 
-
+​     
 
 #### Hjælpemidler
 
@@ -27,7 +27,7 @@ Det er selv følgelig tilladt at se hvordan andre har løst noget og gøre det p
 
 Jeg er til stæde for at svare på spørgsmål til opgaveformuleringen eller teknisk hjælp, men ikke til at hjælpe med andre spørgsmål.
 
-
+​     
 
 #### Valg af sprog
 
@@ -37,23 +37,23 @@ I kan enten vælge at lave jeres opgave i *p5.js* eller *Processing 3*. Der er l
 
 Hvis siden stadig er nede følg dette link til [p5.js Online Editor](https://editor.p5js.org).
 
-
+​     
 
 I må også gerne bruge Visual Studio Code og Live Server, men husk det kræver et tomt eksempel projekt.
 
-
+​     
 
 For jer der ønsker at bruge Processing 3.0 følge nedenstående link og download appen.
 
 [https://processing.org](https://processing.org)
 
-
+​     
 
 #### Aflevering
 
 Jeg har lavet en aflevering på Lectio, når i har afleveret må i gå. Hvis i aflevere i Processing skal i aflevere .pde filen/filerne i zip format og i p5.js skal i downloade jeres sketch folder og zippe den og uploade den.
 
-
+​     
 
 ## Opgaven
 
@@ -61,24 +61,22 @@ Spawn i alt 30 objekter tilfældigt valgt mellem to klasser (Klasse 1/Klasse 2).
 
 Navngivning af variabler og klasser er valgfrit.
 
-
-
-
+​     
 
 
 #### Specifikke krav
 
 ***Disse krav skal overholdes, hvis ikke trækker det fra i den samlede bedømmelse.***
 
-
+​     
 
 I **SKAL** skrive kommentare til jeres kode!!!
 
-
+​     
 
 Opløsning på canvas: 400 x 400
 
-
+​     
 
 Klasse 1:
 
@@ -90,7 +88,7 @@ Bevæger sig tilfældigt rundt én pixel ad gangen. Kan ikke gå ud af skærmen,
 
 Skifter til en ny tilfældig farve hvert sekund. 
 
-
+​     
 
 Klasse 2:
 
@@ -104,6 +102,6 @@ Skal kunne det samme som klasse 1 dog skal formen være en **Firkant** 20 x 20
 
 
 
-
+​     
 
 ![Example](./full_example.gif)
