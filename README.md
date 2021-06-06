@@ -1,6 +1,6 @@
 # Skriftlig opgave i Programmering B - 2021
 
-Grundet den ekstraordinære eksamenssituation har jeg fremstillet en lille skriftlig opgave. I får ikke feedback på resultaterne eller en direkte karakter, men den kommer på en eller anden måde til at indgå i den samlede vurdering til jeres årskarakter.
+Grundet den ekstraordinære coronasituation har jeg fremstillet en lille skriftlig opgave. I får ikke feedback på resultaterne eller en direkte karakter, men den kommer på en eller anden måde til at indgå i den samlede vurdering til jeres årskarakter.
 
 ​     
 
@@ -25,7 +25,7 @@ Det er ikke tilladt at dele kode mellem hinanden på nogen måde, opdages det bo
 
 Det er selv følgelig tilladt at se hvordan andre har løst noget og gøre det på samme måde, som for eksempel eksempler inde fra referencen eller stack owerflow etc. Men copy pase er et absolut NO GO!.
 
-Jeg er til stæde for at svare på spørgsmål til opgaveformuleringen eller teknisk hjælp, men ikke til at hjælpe med andre spørgsmål.
+Jeg er til stæde under prøven for at svare på spørgsmål til opgaveformuleringen eller teknisk hjælp, men hjælper eller svare ikke på andre spørgsmål.
 
 ​     
 
@@ -33,9 +33,7 @@ Jeg er til stæde for at svare på spørgsmål til opgaveformuleringen eller tek
 
 I kan enten vælge at lave jeres opgave i *p5.js* eller *Processing 3*. Der er links til de to muligheder neden under.
 
-[https://p5js.org](p5.js site) NB: der er ændringer på sitet pga. drabet i USA på Gorge Floyd referencerne kan tilgåes. 
-
-Hvis siden stadig er nede følg dette link til [p5.js Online Editor](https://editor.p5js.org).
+[https://p5js.org](p5.js site)
 
 ​     
 
@@ -57,7 +55,8 @@ Jeg har lavet en aflevering på Lectio, når i har afleveret må i gå. Hvis i a
 
 ## Opgaven
 
-Spawn i alt 30 objekter tilfældigt rundt på canvas. Objekterne er tilfældigt valgt mellem to klasser (Klasse 1/Klasse 2). Objekterne spawner ét ad gangen med ét sekund mellem hver (det vil så tage ca 30 sekunder før alle er spawnet).
+Spawn i alt 30 objekter tilfældigt rundt på canvas. Objekterne er tilfældigt valgt mellem to klasser (Klasse 1 / Klasse 2). Objekterne spawner ét ad gangen med ét sekund mellem hver (det vil så tage ca 30 sekunder før alle er spawnet).
+
 
 Navngivning af variabler og klasser er valgfrit.
 
