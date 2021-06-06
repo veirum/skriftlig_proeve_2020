@@ -55,7 +55,7 @@ Jeg har lavet en aflevering på Lectio, når i har afleveret må i gå. Hvis i a
 
 ## Opgaven
 
-Spawn i alt 30 objekter tilfældigt rundt på canvas. Objekterne er tilfældigt valgt mellem to klasser (Klasse 1 / Klasse 2). Objekterne spawner ét ad gangen med ét sekund mellem hver (det vil så tage ca 30 sekunder før alle er spawnet).
+Spawn i alt 30 objekter tilfældigt rundt på canvas. Objekterne der spavner vælges tilfældigt mellem to klasser (Klasse 1 / Klasse 2). Objekterne spawner ét ad gangen med ét sekunds mellemrum (det vil så tage ca 30 sekunder før alle er spawnet).
 
 
 Navngivning af variabler og klasser er valgfrit.
@@ -95,7 +95,10 @@ Nedarver fra klasse 1
 
 Skal kunne det samme som klasse 1 dog skal formen være en **Firkant** 20 x 20
 
-​     
+​
+
+Det giver flere point hvis man ikke bruger interval funktionen
+
 
 Note: Hvis farverne driller i gif eksemplet er det pga gif komprimering. 
 
