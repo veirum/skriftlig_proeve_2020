@@ -1,4 +1,4 @@
-# Skriftlig opgave i Programmering B - 2020
+# Skriftlig opgave i Programmering B - 2021
 
 Grundet den ekstraordinære eksamenssituation har jeg fremstillet en lille skriftlig opgave. I får ikke feedback på resultaterne eller en direkte karakter, men den kommer på en eller anden måde til at indgå i den samlede vurdering til jeres årskarakter.
 
